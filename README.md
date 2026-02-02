@@ -23,5 +23,4 @@ Aplicação web interativa desenvolvida com **Dash** para visualização dos dad
 └── README.md
 ```
 
-## Entrega
-Faça upload desse projeto no GitHub e envie o link do repositório no campo de entrega do Classroom.
+
