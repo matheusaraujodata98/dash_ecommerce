@@ -24,7 +24,7 @@ Para rodar a aplicação localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/matheusaraujodata98/ecommerce-dash-app.git](https://github.com/SEU-USUARIO/ecommerce-dash-app.git)
+    git clone [https://github.com/matheusaraujodata98/ecommerce-dash-app.git](https://github.com/matheusaraujodata98/ecommerce-dash-app.git)
     cd ecommerce-dash-app
     ```
 
